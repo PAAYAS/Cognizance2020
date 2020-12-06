@@ -19,7 +19,8 @@
 
 * It is not necessary all defective humans should be a cyborg.
 * All healthy average human can be cyborg to advance themselves.
-* Example: A normal healthy person had the capacity to lift a car but our brain limits our capacity , so the person can be cyborg.
+* Example: A normal healthy person has the capacity to lift a car but our brain limits our capacity , so the normal person can be cyborg.
+
 
   ![Cyborg](https://static.comicvine.com/uploads/original/11111/111114841/4055431-3129974099-depos.jpg) 
 
