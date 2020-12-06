@@ -27,4 +27,5 @@
 
 
 
-Reference: [Cyborg Wikipedia](https://en.wikipedia.org/wiki/Cyborg)
+### __REFERENCE__: * [Cyborg Wikipedia](https://en.wikipedia.org/wiki/Cyborg)
+                   * https://youtu.be/ygRNoieAnzI (Tedx Talks)
