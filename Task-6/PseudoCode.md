@@ -1,5 +1,5 @@
 # __PSEUDO CODE-ARMSTRONG NUMBER__
-Read n
+Initialize n
 
 temp=n
 
