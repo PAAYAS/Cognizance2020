@@ -20,3 +20,5 @@ IF sum==temp
 ELSE
 
     PRINT "IT IS NOT AN ARMSTRONG NUMBER"
+    
+    ![FlowChart](http://www.google.com/url?q=http%3A%2F%2Fflowchart-armstrong&sa=D&sntz=1&usg=AFQjCNH0A6r-zVzybHbIw9ITlyk_Z_T1vA)
