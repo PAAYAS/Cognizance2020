@@ -1,9 +1,9 @@
 # __PSEUDO CODE-ARMSTRONG NUMBER__
-Initialize n
+Input n
 
-temp=n
+Initialize temp=n
 
-sum=0
+Initialize sum=0
 
 order= length of n
 
