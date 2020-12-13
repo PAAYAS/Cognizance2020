@@ -1,4 +1,4 @@
-# __PSEUDO CODE-ARMSTRONG NUMBER__
+# __*PSEUDO CODE-ARMSTRONG NUMBER*__
 Intialize n
 
 temp=n
