@@ -21,4 +21,4 @@ ELSE
 
     PRINT "IT IS NOT AN ARMSTRONG NUMBER"
     
-![FlowChart](https://lh3.googleusercontent.com/JM_f4Sai0NMONBgwgdg5lGhvpNdZJlWzXMz_G7pxsptnVgpSPK3cH2kqWtApGj-GYoIoV5kT9-vIm2DX7ZaK00YOsCSzDoX_lnQXIeIsWoDjOowmn-A9=w1280)
+![FlowChart](https://lh4.googleusercontent.com/ZH8ArBI5RVsP57xE48Z45J5OTZh8LWP_4HeK-q-5nRzseET10eSQvaYaVEi90ZF3g9xB0rCC_JKC3HdYTfMzwsNFjVABJK88V1YH_jTRY9-wb1mH6V9w=w1280)
