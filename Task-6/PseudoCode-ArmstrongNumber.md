@@ -22,4 +22,4 @@ ELSE
     PRINT "IT IS NOT AN ARMSTRONG NUMBER"
 
 
-![FlowChart](https://lh6.googleusercontent.com/A8qFXeSVcbBmyym5RvRHCax3xe9gXn7hqzpWxeeHsDIrkX8Ex8nYFrLahkNaeiJt_49sULVyGrTqUyLB7FNcYvDm5ppGFdi8t7Gdq0VHe5in40Zoig=w1280)
+![FlowChart](https://drive.google.com/file/d/1etyoE2i7XD4W2MNwMdvECvhm7W6aHIbw/view?usp=sharing)
